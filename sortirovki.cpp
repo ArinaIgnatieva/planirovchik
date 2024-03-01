@@ -116,7 +116,7 @@ int main() {
     quickSort(arr, 0, size-1);
     
     //выводим на экран отсортированный вектор
-    std::cout << "отсортированный массив: " << std::endl;
+    std::cout << "отсортированный вектор: " << std::endl;
     printVector(arr, size);
     
     
